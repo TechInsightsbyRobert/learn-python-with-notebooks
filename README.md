@@ -25,7 +25,7 @@ By the end of this course, you’ll be able to:
 | 4 | Loops |
 | 5 | Functions |
 | 6 | Lists & Dictionaries |
-| 7 | Mini Project |
+| 7 | [Mini Project](https://www.kaggle.com/code/robertasumeng/lesson-7-mini-project-putting-it-all-together) |
 
 ---
 
